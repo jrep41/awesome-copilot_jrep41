@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5FLZVaI1mg4=",
+  "dgSpecHash": "TKpP+ooPPFY=",
   "success": true,
   "projectFilePath": "E:\\repos\\awesome-copilot\\mcp-server\\awesome-copilot\\src\\McpSamples.AwesomeCopilot.HybridApp\\McpSamples.AwesomeCopilot.HybridApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\joser\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.12\\microsoft.aspnetcore.openapi.9.0.12.nupkg.sha512",
+    "C:\\Users\\joser\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.13\\microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
     "C:\\Users\\joser\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.2.0\\microsoft.extensions.ai.abstractions.10.2.0.nupkg.sha512",
     "C:\\Users\\joser\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.2\\microsoft.extensions.caching.abstractions.10.0.2.nupkg.sha512",
     "C:\\Users\\joser\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.2\\microsoft.extensions.configuration.abstractions.10.0.2.nupkg.sha512",

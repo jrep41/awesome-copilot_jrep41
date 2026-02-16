@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("McpSamples.AwesomeCopilot.HybridApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d99ba7198680e68f49d7e4cd2f7cc38209f3b232")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7855e66af84ab54d67129c43df429fee3583c855")]
 [assembly: System.Reflection.AssemblyProductAttribute("McpSamples.AwesomeCopilot.HybridApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("McpSamples.AwesomeCopilot.HybridApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
