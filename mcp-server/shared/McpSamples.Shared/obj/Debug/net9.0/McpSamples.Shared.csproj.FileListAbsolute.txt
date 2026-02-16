@@ -1,0 +1,13 @@
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\bin\Debug\net9.0\McpSamples.Shared.deps.json
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\bin\Debug\net9.0\McpSamples.Shared.dll
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\bin\Debug\net9.0\McpSamples.Shared.pdb
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\obj\Debug\net9.0\McpSamples.Shared.csproj.AssemblyReference.cache
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\obj\Debug\net9.0\McpSamples.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\obj\Debug\net9.0\McpSamples.Shared.AssemblyInfoInputs.cache
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\obj\Debug\net9.0\McpSamples.Shared.AssemblyInfo.cs
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\obj\Debug\net9.0\McpSamples.Shared.csproj.CoreCompileInputs.cache
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\obj\Debug\net9.0\McpSamples.Shared.sourcelink.json
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\obj\Debug\net9.0\McpSamples.Shared.dll
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\obj\Debug\net9.0\refint\McpSamples.Shared.dll
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\obj\Debug\net9.0\McpSamples.Shared.pdb
+E:\repos\awesome-copilot\mcp-server\shared\McpSamples.Shared\obj\Debug\net9.0\ref\McpSamples.Shared.dll
